@@ -1,0 +1,9 @@
+{
+  "name": "api-portfolio-review",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Client portfolio review \u2014 API, Driven Asset Management",
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
